@@ -1,15 +1,17 @@
-# The Appointment
+### The Appointment
 
-#### Video Demo: <URL https://youtu.be/Sg24aaz7PKw>
+Check it out! => https://the-appointment.netlify.app/
 
-#### Description: The appointment countdown for your bigday! It's required user to input the appointment then countdown to that day and alarm when the day is come.
+Video Demo: <URL https://youtu.be/Sg24aaz7PKw>
+
+Description: The appointment countdown for your bigday! It's required user to input the appointment then countdown to that day and alarm when the day is come.
 
 I quit my 7 years job of Logistics engineer to learn programming start with Zero
 and I hope "I will become a programmer soon."
 By the way, my budget is can spend for only a year.
 So, I decide to create a countdown web for countdown my time with the rest of budget. (So sad)
 
-TODO : The Appointment Project
+TODO :The Appointment project
 I use the index.html for create a web page in 3 parts
 
 1.Appointment form :
